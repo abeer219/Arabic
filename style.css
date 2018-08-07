@@ -1,0 +1,205 @@
+*{ 
+   font-family: 'DroidArabicKufiRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+   color: #fff;
+}
+
+.nav{
+    background-color:#383838;
+    height: 50px;
+}
+
+.nav .container{
+    max-width: 1000px;
+}
+
+.nav .container .row{
+    margin-top: 5px;
+    direction: rtl;
+    text-align: right;
+}
+
+.nav .container .row h3{
+    color: cornflowerblue;
+}
+
+.nav .container .row .col-md-4 button{
+    width: 100px;
+    height: 35px;
+    font-size: 0.5em;
+}
+
+.fa, .fas {
+    font-weight: 850;
+}
+
+.nav2{
+    background-color:#fff;
+    height: 40px;
+    text-align: right;
+}
+
+.nav2 .container{
+    max-width: 1000px;
+}
+
+.nav2 .container .row .col-md-12 h6{
+    color: #101010;
+    margin-top: 10px;
+}
+
+.content1{
+    background-color:#ffcc00;
+    height: 250px;
+    text-align: right;
+}
+
+.content1 .container{
+    max-width: 1000px;
+    padding-top: 10px;
+}
+
+.content1 .container .row .col-md-4 label{
+    color: #101010;
+    margin-top: 10px;
+}
+
+.content1 .container .row .col-md-4 select{
+    height: 35px;
+}
+
+.content1 .container .row .col-md-4 input{
+    height: 35px;
+}
+
+.content1 .container .row .col-md-4 button{
+    height: 35px;
+    padding-bottom: 10px;
+}
+
+.content2{
+    background-color:#fff;
+    height: 50px;
+    text-align: center;
+    box-shadow: 5px 1px 5px grey;
+}
+
+.content2 .container{
+    max-width: 1000px;
+}
+
+.content2 .container .row .col-md-12 h6{
+    color: #101010;
+    margin-top: 20px;
+}
+
+.content3{
+    background-color:#fff;
+    height: 600px;
+    text-align: right;
+}
+
+.content3 .container{
+    max-width: 1000px;
+}
+
+.content3 .container h6{
+    color: #101010;
+    margin-top: 20px;
+    font-size: 1.3em;
+}
+
+.content3 .container .row .col-md-6 .card{
+    margin-top: 10px;
+}
+
+.content3 .container .row .col-md-6 .card img{
+    max-height: 300px;
+    object-fit: cover;
+    height: 150px;
+}
+
+.content3 .container .row .col-md-6 .card h5{
+    color: #101010;
+}
+
+.content3 .container .row .col-md-6 .card p{
+    color: #101010;
+    font-size: 0.7em;
+}
+
+.content3 .container .row .col-md-6 .card .card-body .left{
+    position: absolute;
+    top: 170px;
+    left: 50px;
+   
+}
+    
+.footer{
+    background-color:#383838;
+    height: 250px;
+}
+
+.footer .container{
+    max-width: 1000px;
+}
+
+.footer .container .row{
+    direction: rtl;
+    text-align: right;
+}
+
+h1{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: #fff;
+}
+
+p{
+    color: #fff;
+}
+
+.inp{
+    margin-bottom: 50px;
+}
+
+.inp input{
+    margin-bottom: 50px;
+    width: 300px;
+    float: right;
+}
+
+.inp button{
+    height: 30px;
+    border-radius: unset;
+    margin-right: 0;
+}
+
+.col-md-4 .left{
+    padding-top: 70px;
+    padding-bottom: 50px;
+    text-align: center;
+} 
+
+img{
+    height: 40px;
+    width: 40px;
+}
+
+.yellow{
+    background-color:#ffcc00;
+    height: 50px;
+}
+
+.yellow .container .row .col-md-8 p{
+    color: #101010;
+    margin-top: 10px;
+}
+
+i{
+    margin-top: 10px;
+    color: #101010;
+    padding-right: 10px;
+}
+
